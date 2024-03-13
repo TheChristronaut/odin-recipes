@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(46, 46, 46);
+    text-align: center;
+    color: snow;
+}
+.main {
+    list-style-type: none;
+}
+ul {
+    list-style-type: circle;
+    text-align: center;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: snow;
+    border-bottom: dashed white;
+    font-size: 48px;;
+}
+button {
+    margin-top: 5px;
+    margin-bottom: 40px;
+    background-color: whitesmoke;;
+}
